@@ -1,2 +1,2 @@
-# bank-crm-powerbi
-A Power BI dashboard analyzing banking CRM data to calculate customer churn, track exits, and uncover key retention trends to optimize operational efficiency.
+📋 Project Overview
+This Power BI project focuses on analyzing retail banking CRM data to track, calculate, and understand customer churn and exits. By identifying high-risk customer segments and regional trends, this dashboard provides actionable insights to improve customer retention and optimize operational efficiency.
